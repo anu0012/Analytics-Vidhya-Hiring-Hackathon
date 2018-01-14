@@ -13,3 +13,14 @@ Note that you cannot use future information to model past consumption. For examp
 
 
 The Evaluation criteria for this problem is RMSE.
+
+
+# Result
+
+I got 68th rank out of 106 participants.
+
+PB_Leaderboard Score - 81.6160821461
+
+PV_Leaderboard Score - 100.5147097048
+
+[Link](https://datahack.analyticsvidhya.com/contest/analytics-vidhya-hiring-hackathon/)
